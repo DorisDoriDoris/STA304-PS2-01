@@ -1,1 +1,3 @@
-# STA304-PS2-01
+# About
+
+This is the report for studys on GSS data
