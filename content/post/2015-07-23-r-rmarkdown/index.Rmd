@@ -1,7 +1,7 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
+title: "Study on the GSS data"
+author: "Jiayuan Pan, Zhixing Hong, Lingyue Kong"
+date: 2020-10-15
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -12,3 +12,5 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # Authorship
 The link to our Github Repository is ....
+
+
